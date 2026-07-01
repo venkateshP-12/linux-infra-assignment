@@ -13,7 +13,7 @@ Suryaprakash Bandoju
 
 ## Quick Start
 ```bash
-git clone https://github.com/suryaprakash-bandoju/linux-infra-assignment.git
+git clone https://github.com/venkateshP-12/linux-infra-assignment.git
 cd linux-infra-assignment
 ./scripts/provision.sh
 ./scripts/validate.sh
